@@ -1,0 +1,33 @@
+{
+    "author": "gibson@hougland.net",
+    "dependencies": {},
+    "keywords": [],
+    "name": "shakenote",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "ShakeNote",
+        "enableMultiJS": true,
+        "messageKeys": [
+            "FORGOT_KEYS",
+            "REMEMBER_MEDS",
+            "REMEMBER_LUNCH"
+        ],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "5f324306-7e29-4cc9-aea9-15487bab5b91",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
